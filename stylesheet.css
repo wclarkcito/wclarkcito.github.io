@@ -1,0 +1,32 @@
+/*CSS styling for Bio page*/
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+    font-family: black 900 italic;
+}
+
+img{
+    height: 300;
+    width: 200;
+}
+
+footer{
+    font-size:60px;
+    
+}
+
+body{
+    background-image: url("https://lh3.googleusercontent.com/WwZGWAoVHPo3fuyoryOYn5x8qGUspoJ7rV5sqfYn_4Y3C-g9hHVx1jOb_crURHdq5j3t4MbHk2ag35g67X73H9f72sqbXumapnJPLQn238Vr4enPsM9g_7j5W8y51DgZBjwuop8s78j_36uYuIy11asxm4VdxP5qHZSYOqBbyT5-GF8mGMd7TvSXFleaYezr6xIRBsUJEFEskFUENcDIz-5qpi5Mhtjz6tf-bgCPIHDMyxFUncsF2UctiMd_UsebQiwfV_CH1RbwJW30UL1TfFHB7cgwlNeKqr1filpj44XLQY0P2IT0qhEJG0XAN00Lsc6LdfKPP9uPvNp4hVpnJpyYN3CaN-dfYV_pVbr0j5tpPM6QZ9ryGekos1bD7E2t8RyYGe-4tmoPKmv1EtUyhKodX8KIWtWaJPueMw8mkBo5p9_SIPzcVjJFgNXbFpHfw571dFnQBrQ-EjtFCxJVPpf8gv_CszKw9sPxpA3hhZWNPO5lcznb3LlmJO16pr-FVsDQEEpBJJCLu-MFi0wG-7NVfI9FU77pkRDQk84-rmV_PoZ4_wS90MzlZhfN2yMXfv2S45Ua-n6OlgCQ0RDYBWuteibGdcqi9j2m3dj8XgHYuzh3Id5g8iBE7HcTXzI8Y5N4mhyo8Bby0GFsNxPJiMRCQ4nCmZ7dVe9r_MvBOg6tTrQxpOjVrzdfJLAB=w1047-h785-no?authuser=0");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+
+
+
+
+
