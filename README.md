@@ -1,6 +1,6 @@
 # wclarkcito.github.io
 
-## Portfolio has been updated to reflect completion of my first project entitle "Cryptelligent". Further projects will be added to a carousel.
+## Portfolio has been updated to reflect completion of my first project and second project as well as a number of other projects
 
 ## https://wclarkcito.github.io/
 
